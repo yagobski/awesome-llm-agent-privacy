@@ -47,9 +47,12 @@ This list tracks the growing body of research addressing these challenges.
 | Date | Title | Venue | Links |
 |------|-------|-------|-------|
 | 2026/02 | ⭐ **AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems** | arXiv | [[paper]](https://arxiv.org/abs/2602.11510) |
+| 2026/02 | **AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2602.16901) |
+| 2025/11 | **Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework** | arXiv | [[paper]](https://arxiv.org/abs/2511.03248) |
 | 2025/10 | **MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation** | arXiv | [[paper]](https://arxiv.org/abs/2510.15186) |
 | 2025/09 | **The Sum Leaks More Than Its Parts: Compositional Privacy Risks in Multi-Agent Collaboration** | arXiv | [[paper]](https://arxiv.org/abs/2509.14284) [[code]](https://github.com/Vaidehi99/CompositionalPrivacyRisks) |
 | 2025/09 | **Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents** | arXiv | [[paper]](https://arxiv.org/abs/2509.17488) |
+| 2025/08 | **Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents** | AAAI 2026 | [[paper]](https://arxiv.org/abs/2508.19493) [[code]](https://github.com/Zhixin-L/SAPA-Bench) |
 | 2025/06 | **MAGPIE: A Dataset for Multi-AGent Contextual PrIvacy Evaluation** | arXiv | [[paper]](https://arxiv.org/abs/2506.20737) |
 | 2025/03 | **AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents** | NeurIPS 2025 | [[paper]](https://arxiv.org/abs/2503.09780) |
 | 2024/12 | **Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation** | arXiv | [[paper]](https://arxiv.org/abs/2512.16310) |
@@ -63,6 +66,8 @@ This list tracks the growing body of research addressing these challenges.
 | Date | Title | Venue | Links |
 |------|-------|-------|-------|
 | 2026/02 | **The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Defense** | arXiv | [[paper]](https://arxiv.org/abs/2602.10453) |
+| 2026/02 | **AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2602.16901) |
+| 2025/11 | **When AI Agents Collude Online: Financial Fraud Risks by Collaborative LLM Agents on Social Platforms** | arXiv | [[paper]](https://arxiv.org/abs/2511.06448) |
 | 2025/08 | **Searching for Privacy Risks in LLM Agents via Simulation** | arXiv | [[paper]](https://arxiv.org/abs/2508.10880) |
 | 2025/04 | **Les Dissonances: Cross-Tool Harvesting and Polluting in Multi-Tool Empowered LLM Agents** | arXiv | [[paper]](https://arxiv.org/abs/2504.03111) |
 | 2025/02 | **Red-Teaming LLM Multi-Agent Systems via Communication Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2502.14847) |
