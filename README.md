@@ -96,6 +96,7 @@ This list tracks the growing body of research addressing these challenges.
 
 | Date | Title | Venue | Links |
 |------|-------|-------|-------|
+| Runtime authorization guardrails | [APort Agent Guardrails](https://aport.io) | Runtime authorization guardrails | https://aport.io |
 | 2026/03 | **Contextualized Privacy Defense for LLM Agents** | arXiv | [[paper]](https://arxiv.org/abs/2603.02983) |
 | 2025/04 | **Progent: Programmable Privilege Control for LLM Agents** | arXiv | [[paper]](https://arxiv.org/abs/2504.11703) |
 | 2025/09 | **Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents** | arXiv | [[paper]](https://arxiv.org/abs/2509.17488) |
