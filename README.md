@@ -47,15 +47,18 @@ This list tracks the growing body of research addressing these challenges.
 | Date | Title | Venue | Links |
 |------|-------|-------|-------|
 | 2026/02 | ⭐ **AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems** | arXiv | [[paper]](https://arxiv.org/abs/2602.11510) |
+| 2026/07 | **The Interlocutor Effect: Why LLMs Leak More Personal Data to Agents Than Humans** | EuroS&PW 2026 | [[paper]](https://arxiv.org/abs/2606.09844) [[doi]](https://doi.org/10.1109/eurospw72509.2026.00008) |
 | 2026/02 | **AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2602.16901) |
+| 2025/12 | **Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation** | arXiv | [[paper]](https://arxiv.org/abs/2512.16310) [[code]](https://github.com/1Ponder/TOP-R) |
 | 2025/11 | **Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework** | arXiv | [[paper]](https://arxiv.org/abs/2511.03248) |
 | 2025/10 | **MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation** | arXiv | [[paper]](https://arxiv.org/abs/2510.15186) |
+| 2025/09 | **Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark (EAPrivacy)** | ICLR 2026 | [[paper]](https://arxiv.org/abs/2510.02356) [[code]](https://github.com/Graph-COM/EAPrivacy) |
 | 2025/09 | **The Sum Leaks More Than Its Parts: Compositional Privacy Risks in Multi-Agent Collaboration** | arXiv | [[paper]](https://arxiv.org/abs/2509.14284) [[code]](https://github.com/Vaidehi99/CompositionalPrivacyRisks) |
 | 2025/09 | **Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents** | arXiv | [[paper]](https://arxiv.org/abs/2509.17488) |
 | 2025/08 | **Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents** | AAAI 2026 | [[paper]](https://arxiv.org/abs/2508.19493) [[code]](https://github.com/Zhixin-L/SAPA-Bench) |
 | 2025/06 | **MAGPIE: A Dataset for Multi-AGent Contextual PrIvacy Evaluation** | arXiv | [[paper]](https://arxiv.org/abs/2506.20737) |
+| 2025/06 | **Privacy Reasoning in Ambiguous Contexts** | NeurIPS 2025 | [[paper]](https://arxiv.org/abs/2506.12241) |
 | 2025/03 | **AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents** | NeurIPS 2025 | [[paper]](https://arxiv.org/abs/2503.09780) |
-| 2024/12 | **Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation** | arXiv | [[paper]](https://arxiv.org/abs/2512.16310) |
 
 ---
 
@@ -67,8 +70,11 @@ This list tracks the growing body of research addressing these challenges.
 |------|-------|-------|-------|
 | 2026/02 | **The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Defense** | arXiv | [[paper]](https://arxiv.org/abs/2602.10453) |
 | 2026/02 | **AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2602.16901) |
+| 2026/02 | **Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace** | arXiv | [[paper]](https://arxiv.org/abs/2602.22450) |
 | 2025/11 | **When AI Agents Collude Online: Financial Fraud Risks by Collaborative LLM Agents on Social Platforms** | arXiv | [[paper]](https://arxiv.org/abs/2511.06448) |
 | 2025/08 | **Searching for Privacy Risks in LLM Agents via Simulation** | arXiv | [[paper]](https://arxiv.org/abs/2508.10880) |
+| 2025/06 | **Simple Prompt Injection Attacks Can Leak Personal Data Observed by LLM Agents During Task Execution** | arXiv | [[paper]](https://arxiv.org/abs/2506.01055) |
+| 2025/05 | **IP Leakage Attacks Targeting LLM-Based Multi-Agent Systems (MASLEAK)** | arXiv | [[paper]](https://arxiv.org/abs/2505.12442) |
 | 2025/04 | **Les Dissonances: Cross-Tool Harvesting and Polluting in Multi-Tool Empowered LLM Agents** | arXiv | [[paper]](https://arxiv.org/abs/2504.03111) |
 | 2025/02 | **Red-Teaming LLM Multi-Agent Systems via Communication Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2502.14847) |
 | 2025/02 | **Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2502.08586) |
@@ -97,8 +103,10 @@ This list tracks the growing body of research addressing these challenges.
 | Date | Title | Venue | Links |
 |------|-------|-------|-------|
 | 2026/03 | **Contextualized Privacy Defense for LLM Agents** | arXiv | [[paper]](https://arxiv.org/abs/2603.02983) |
-| 2025/04 | **Progent: Programmable Privilege Control for LLM Agents** | arXiv | [[paper]](https://arxiv.org/abs/2504.11703) |
+| 2026/02 | **PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training** | ICML 2026 | [[paper]](https://arxiv.org/abs/2602.13840) [[code]](https://github.com/chengyh23/PrivAct) |
 | 2025/09 | **Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents** | arXiv | [[paper]](https://arxiv.org/abs/2509.17488) |
+| 2025/08 | **1-2-3 Check: Enhancing Contextual Privacy in LLM via Multi-Agent Reasoning** | IASEAI 2026 | [[paper]](https://arxiv.org/abs/2508.07667) |
+| 2025/04 | **Progent: Programmable Privilege Control for LLM Agents** | arXiv | [[paper]](https://arxiv.org/abs/2504.11703) |
 
 ### Unlearning & Forgetting
 
@@ -172,4 +180,4 @@ If you use this list or find it useful, please also consider citing our benchmar
 
 ---
 
-*Last updated: March 2026 | Maintained by [Faouzi El Yagoubi](https://github.com/yagobski)*
+*Last updated: August 2026 | Maintained by [Faouzi El Yagoubi](https://github.com/yagobski)*
