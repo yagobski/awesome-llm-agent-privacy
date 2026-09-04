@@ -136,6 +136,7 @@ This list tracks the growing body of research addressing these challenges.
 
 | Date | Title | Venue | Links |
 |------|-------|-------|-------|
+| 2026/08 | **PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?** | Preprint | [[paper]](https://www.alphaxiv.org/pdf/2609.pact-enterprise-ai-compliance-testing) [[website]](https://trace-ai-labs.github.io/pact/) [[code]](https://github.com/trace-ai-labs/pact) [[dataset]](https://huggingface.co/datasets/trace-ai-labs/pact) |
 | 2025/12 | **Global AI Governance Overview: Understanding Regulatory Requirements Across Global Jurisdictions** | arXiv | [[paper]](https://arxiv.org/abs/2512.02046) |
 | 2025/09 | **Privacy in Action: Realistic GDPR/CCPA-aligned Evaluation** | arXiv | [[paper]](https://arxiv.org/abs/2509.17488) |
 
