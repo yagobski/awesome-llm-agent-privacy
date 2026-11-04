@@ -47,6 +47,7 @@ This list tracks the growing body of research addressing these challenges.
 | Date | Title | Venue | Links |
 |------|-------|-------|-------|
 | 2026/02 | ⭐ **AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems** | arXiv | [[paper]](https://arxiv.org/abs/2602.11510) |
+| 2026/10 | **Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution (EC2-Bench)** | arXiv | [[paper]](https://arxiv.org/abs/2610.17816) [[code]](https://github.com/OpenBMB/EC2-Bench) |
 | 2026/07 | **The Interlocutor Effect: Why LLMs Leak More Personal Data to Agents Than Humans** | EuroS&PW 2026 | [[paper]](https://arxiv.org/abs/2606.09844) [[doi]](https://doi.org/10.1109/eurospw72509.2026.00008) |
 | 2026/02 | **AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks** | arXiv | [[paper]](https://arxiv.org/abs/2602.16901) |
 | 2025/12 | **Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation** | arXiv | [[paper]](https://arxiv.org/abs/2512.16310) [[code]](https://github.com/1Ponder/TOP-R) |
